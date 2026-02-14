@@ -23,3 +23,9 @@ This repository contains AI generated output files created using OpenAI GPT-5.2.
 
 - These files are generated artifacts intended for review and research.
 - These files represent a subset snapshot of the legislation available. If some bills are missing, they may not have had accessible PDF source documents at generation time.
+
+## Disclaimer
+
+- Summaries are AI-generated and may contain errors, omissions, or outdated information.
+- This repository is for informational use only and is not legal, policy, or financial advice.
+- Confirm material details with official Delaware General Assembly records before relying on them.
