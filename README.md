@@ -1,8 +1,6 @@
 # Delaware Bill Outputs (ZIP Package)
 
-This repository contains generated output files only.
-
-No application source code is included in this package.
+This repository contains AI generated output files created using OpenAI GPT-5.2.
 
 ## Contents
 
@@ -24,4 +22,4 @@ No application source code is included in this package.
 ## Notes
 
 - These files are generated artifacts intended for review and research.
-- If some bills are missing, they may not have had accessible PDF source documents at generation time.
+- These files represent a subset snapshot of the legislation available. If some bills are missing, they may not have had accessible PDF source documents at generation time.
