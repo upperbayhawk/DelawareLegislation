@@ -1,4 +1,4 @@
-# Delaware Bill Outputs (ZIP Package)
+# Delaware Bill Summaries (ZIP Package)
 
 This repository contains AI generated output files created using OpenAI GPT-5.2.
 
